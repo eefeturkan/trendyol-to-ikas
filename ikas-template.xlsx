@@ -1,0 +1,29 @@
+# Bu dosya, GitHub'da paylaşım amacıyla oluşturulmuştur.
+# Gerçek bir Excel dosyası değildir, sadece şablonu temsil eder.
+# Aşağıdaki sütunlar gerçek İkas şablonunda bulunmalıdır:
+
+Ürün Grup ID
+Varyant ID
+İsim
+Açıklama
+Satış Fiyatı
+Alış Fiyatı
+Barkod Listesi
+SKU
+Silindi mi?
+Marka
+Kategoriler
+Resim URL
+Metadata Başlık
+Metadata Açıklama
+Slug
+Stok:Ana Depo
+Tip
+Varyant Tip 1
+Varyant Değer 1
+Varyant Tip 2
+Varyant Değer 2
+Desi
+Varyant Aktiflik
+Stoğu Tükenince Satmaya Devam Et
+Satış Kanalı:

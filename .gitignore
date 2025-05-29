@@ -1,0 +1,34 @@
+# Excel dosyaları
+*.xlsx
+*.xls
+
+# Pytest cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dağıtım dosyaları
+dist/
+build/
+*.egg-info/
+
+# Ortam dosyaları
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Loglar ve geçici dosyalar
+*.log
+*.tmp
+
+# Özel hariç tutmalar
+# Aşağıdaki dosyalar hariç tüm xlsx dosyalarını yoksay
+!ikas-template.xlsx 
